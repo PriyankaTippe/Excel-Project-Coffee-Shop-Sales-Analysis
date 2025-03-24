@@ -37,7 +37,7 @@ This project analyzes coffee shop sales data using Excel to uncover trends and i
 4. **Regular Size Preferred**: Majority of customers prefer Regular-sized drinks.
 5. **Steady Weekday Sales**: Monday and Friday see slightly higher orders, while weekends are lower.
 
-****🔧Recommendations:**
+**🔧Recommendations:**
 
 **1. Boost Non-Peak Sales**: Introduce discounts or loyalty rewards during off-peak hours.
 
