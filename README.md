@@ -40,9 +40,13 @@ This project analyzes coffee shop sales data using Excel to uncover trends and i
 ****🔧Recommendations:**
 
 **1. Boost Non-Peak Sales**: Introduce discounts or loyalty rewards during off-peak hours.
+
 **2. Optimize Inventory**: Maintain strong stock levels for top-selling products.
+
 **3. Enhance Low-Performing Stores**: Implement localized promotions and targeted ads.
+
 **4. Encourage Large Size Sales**: Offer bundled deals or upsell incentives.
+
 **5. Increase Weekend Sales**: Launch special weekend-exclusive offers to attract more customers.
 
 
